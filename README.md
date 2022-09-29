@@ -1,0 +1,1 @@
+Repository used for keeping GoLang's learning exercises
